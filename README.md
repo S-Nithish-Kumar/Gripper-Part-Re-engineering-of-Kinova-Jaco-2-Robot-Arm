@@ -1,5 +1,9 @@
 <h1 align="center">Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm</h1>
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=ohfX8vRgAaY"><img src="http://img.youtube.com/vi/ohfX8vRgAaY/0.jpg"></a>
+</p>
+
 ## Contents:
 1. Problem Statement
 2. Objectives
