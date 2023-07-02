@@ -9,7 +9,7 @@
 ### 1. Problem Statement:
 - Due to wear and tear and ageing factors, the internal part of the Kinova Jaco 2 Robot Arm is damaged.
 * The internal part has varying levels of flexibility in different regions and should be considered while designing and manufacturing. Fig shows the flexibility variations in different parts of the component.
-![OEM_part_sample_image](images/OEM_part_sample.jpg)
+![OEM_part_sample_image](images/OEM_part_sample.jpg = 320x240 "OEM_part_sample")
 
 ### 2. Objectives:
 - To redesign the gripper part by measuring the part dimensions manually using a Vernier Caliper.
