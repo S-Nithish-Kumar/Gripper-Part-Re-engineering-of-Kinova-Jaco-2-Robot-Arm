@@ -11,7 +11,7 @@
 5. Impact of Solving the Problem
 6. Results and Conclusion
 
-[^1]### 1. Problem Statement:
+[^1]:### 1. Problem Statement:
 - Due to wear and tear and ageing factors, the internal part of the Kinova Jaco 2 Robot Arm is damaged.
 * The internal part has varying levels of flexibility in different regions and should be considered while designing and manufacturing. Fig shows the flexibility variations in different parts of the component.
 <p align="center">
