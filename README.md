@@ -4,21 +4,21 @@
 </p>
 
 ## Contents:
-1. Problem Statement[^1]
-2. Objectives[^2]
+1. Problem Statement
+2. Objectives
 3. Design Process
 4. Material Selection
 5. Impact of Solving the Problem
 6. Results and Conclusion
 
-[^1]:### 1. Problem Statement:
+### 1. Problem Statement:
 - Due to wear and tear and ageing factors, the internal part of the Kinova Jaco 2 Robot Arm is damaged.
 * The internal part has varying levels of flexibility in different regions and should be considered while designing and manufacturing. Fig shows the flexibility variations in different parts of the component.
 <p align="center">
 <img src="images/OEM_part_sample.jpg" height="70%" width="70%">
 </p>
 
-### [^2]2. Objectives:
+### 2. Objectives:
 - To redesign the gripper part by measuring the part dimensions manually using a Vernier Caliper.
 * Divide the part into two and design a hinge which will act as a replacement for the flexible portion of the component.
 + Select proper materials for 3D printing the part.
