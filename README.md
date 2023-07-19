@@ -5,12 +5,12 @@
 
 ## Contents:
 <ol>
-   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#1-problem-statement">Problem Statement</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#2-objectives">Objectives</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#3-design-process">Design Process</a></li>
-     <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#4-material-selection">Material Selection</a></li>
-     <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#5-impact-of-solving-the-problem">Impact of Solving the Problem</a></li>
-   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#6-results-and-conclusion">Results and Conclusion</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm/#1-problem-statement">Problem Statement</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm/#2-objectives">Objectives</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm/#3-design-process">Design Process</a></li>
+     <li><a href="https://s-nithish-kumar.github.io/Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm/#4-material-selection">Material Selection</a></li>
+     <li><a href="https://s-nithish-kumar.github.io/Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm/#5-impact-of-solving-the-problem">Impact of Solving the Problem</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Gripper-Part-Re-engineering-of-Kinova-Jaco-2-Robot-Arm/#6-results-and-conclusion">Results and Conclusion</a></li>
 </ol>
 
 ### 1. Problem Statement:
