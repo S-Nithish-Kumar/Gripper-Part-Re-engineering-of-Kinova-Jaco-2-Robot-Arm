@@ -1,4 +1,4 @@
-<h2 align="center">Elevator Pitch Video</h2>
+<h2 align="center">Demonstration Video</h2>
 <p align="center">
 <a href="https://www.youtube.com/watch?v=ohfX8vRgAaY"><img src="images/thumbnail.jpg" height="60%" width="60%"></a>
 </p>
