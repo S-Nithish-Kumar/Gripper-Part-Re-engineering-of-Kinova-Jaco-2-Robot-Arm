@@ -4,12 +4,14 @@
 </p>
 
 ## Contents:
-1. Problem Statement
-2. Objectives
-3. Design Process
-4. Material Selection
-5. Impact of Solving the Problem
-6. Results and Conclusion
+<ol>
+   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#1-problem-statement">Problem Statement</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#2-objectives">Objectives</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#3-design-process">Design Process</a></li>
+     <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#4-material-selection">Material Selection</a></li>
+     <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#5-impact-of-solving-the-problem">Impact of Solving the Problem</a></li>
+   <li><a href="https://s-nithish-kumar.github.io/Colour_Sorting_with_Robot_Arm_using_Deep_Learning/#6-results-and-conclusion">Results and Conclusion</a></li>
+</ol>
 
 ### 1. Problem Statement:
 - Due to wear and tear and ageing factors, the internal part of the Kinova Jaco 2 Robot Arm is damaged.
