@@ -1,6 +1,6 @@
 <h2 align="center">Elevator Pitch Video</h2>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=ohfX8vRgAaY"><img src="http://img.youtube.com/vi/ohfX8vRgAaY/0.jpg"></a>
+<a href="https://www.youtube.com/watch?v=ohfX8vRgAaY"><img src="images/thumbnail.jpg" height="40%" width="40%"></a>
 </p>
 
 ## Contents:
